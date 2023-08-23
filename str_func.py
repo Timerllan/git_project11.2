@@ -1,3 +1,8 @@
 def upper_word(a):
-    '''код говно'''
+    '''code poeben'''
     return a.upper()
+
+
+def capitalize_func(a:str):
+    '''code good'''
+    return a.capitalize()
