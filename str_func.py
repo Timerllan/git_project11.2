@@ -1,5 +1,5 @@
 def upper_word(a):
-    '''code poeben'''
+    '''code good'''
     return a.upper()
 
 
